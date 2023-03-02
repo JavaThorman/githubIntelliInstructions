@@ -2,8 +2,14 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
 
-        // Github --> Share project on github --> Repo name
-        // Git --> manage remotes --> link + remote name.
+
+        // create repository on github, copy link.
+        // new java project, Git --> "Manage remotes" --> add link
+
+
+
+
+
 
     }
 }
